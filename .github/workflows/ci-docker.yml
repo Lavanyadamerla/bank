@@ -1,4 +1,4 @@
-name: C - Spring Boot bank-app Docker Build
+name: CI - Spring Boot bank-app Docker Build
 
 on: 
  push:
