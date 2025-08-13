@@ -44,4 +44,4 @@ jobs:
           context: ./bank-app
           file: ./bank-app/Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/springboot-bank:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/bank-app:latest
