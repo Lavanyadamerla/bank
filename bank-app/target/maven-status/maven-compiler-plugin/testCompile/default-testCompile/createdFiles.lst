@@ -1,0 +1,4 @@
+com\bank\service\PaymentServiceTest.class
+com\bank\service\BankServiceTest.class
+com\bank\controller\BankControllerTest.class
+com\bank\controller\PaymentControllerTest.class
